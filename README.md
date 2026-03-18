@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 # Exercism Python Track
 
 [![Build Status](https://travis-ci.org/exercism/python.svg?branch=master)](https://travis-ci.org/exercism/python) [![Requirements Status](https://pyup.io/repos/github/exercism/python/shield.svg)](https://pyup.io/repos/github/exercism/python/)
